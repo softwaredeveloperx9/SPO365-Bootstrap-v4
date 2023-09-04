@@ -1,6 +1,8 @@
 # SPO365-Bootstrap-v4
 Integrating SharePoint Online 365 with Bootstrap version 4
 
+{if you need AdminLTE and SharePoint Online 365, please visit https://github.com/softwaredeveloperx9/SPO365-AdminLTE-v2 }
+
 ![image](https://github.com/softwaredeveloperx9/SPO365-Bootstrap-v4/assets/138840240/1f348a71-6729-450c-a9d9-83af96287ee6)
 
 also with **Select 2**
