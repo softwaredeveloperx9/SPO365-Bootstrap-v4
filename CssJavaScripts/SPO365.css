@@ -9,6 +9,8 @@ section.mainContent > article{
 .CanvasComponent > div > div > div > div {
     /*background-color: rgb(72, 72, 72) !important;*/
 	max-width: 100% !important;
+	width: 100% !important;
+	/*min-height: 500px !important;*/
 }
 
 .CanvasSection
